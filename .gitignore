@@ -1,0 +1,6 @@
+anaconda_projects/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.virtual_documents/
